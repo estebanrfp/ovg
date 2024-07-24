@@ -1,0 +1,25 @@
+{
+  "textures": {
+    "hm": "https://i.imgur.com/8iJaq2O.png",
+    "mt": "https://i.imgur.com/zpnDD5d.jpg",
+    "t1": "https://i.imgur.com/sJhUVhL.jpg",
+    "t2": "https://i.imgur.com/i64uMf3.jpg",
+    "t3": "https://i.imgur.com/MMTzQkZ.jpg",
+    "t4": "https://i.imgur.com/SjdreD2.jpg"
+  },
+  "sky": {
+    "auto": false,
+    "sunPosition": 0.23289838629406986,
+    "color": {
+      "r": 0.11513160135951328,
+      "g": 0.46099933300279644,
+      "b": 0.6539355017014155
+    },
+    "cloudy": 0.1
+  },
+  "rain": false,
+  "fog": false,
+  "snow": false,
+  "trees": false,
+  "birds": false
+}
