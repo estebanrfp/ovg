@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "hm": "https://i.imgur.com/8iJaq2O.png",
+    "mt": "https://i.imgur.com/zpnDD5d.jpg",
+    "t1": "https://i.imgur.com/sJhUVhL.jpg",
+    "t2": "https://i.imgur.com/i64uMf3.jpg",
+    "t3": "https://i.imgur.com/MMTzQkZ.jpg",
+    "t4": "https://i.imgur.com/SjdreD2.jpg"
+  },
+  "sky": {
+    "auto": false,
+    "sunPosition": 2.950738589983899,
+    "color": { "r": 0, "g": 50, "b": 5 },
+    "cloudy": 0
+  },
+  "rain": false,
+  "snow": true,
+  "trees": false,
+  "birds": false,
+  "ambient": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/main/sounds/day.mp3",
+  "assets": []
+}
