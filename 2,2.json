@@ -1,0 +1,212 @@
+{
+  "defaultPosition": "3.83,17.49,5.34,-3.01,14.51,1.42,4.00,0,0",
+  "textures": {
+    "hm": "https://i.imgur.com/Fr0cbxW.png",
+    "mt": "https://i.imgur.com/zpnDD5d.jpg",
+    "t1": "https://i.imgur.com/i64uMf3.jpg",
+    "t2": "https://i.imgur.com/i64uMf3.jpg",
+    "t3": "https://i.imgur.com/MMTzQkZ.jpg",
+    "t4": "https://i.imgur.com/SjdreD2.jpg"
+  },
+  "sky": {
+    "auto": false,
+    "sunPosition": 2.3378715364056237,
+    "color": { "r": 25.5, "g": 47.5, "b": 0 },
+    "cloudy": 0.02764706978589487
+  },
+  "rain": false,
+  "snow": false,
+  "trees": false,
+  "birds": false,
+  "ambient": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/main/sounds/day.mp3",
+  "assets": [
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": 104.19322310438109,
+        "y": 5.985261349103304,
+        "z": 41.825736626946835
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "1"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": 84.42454333508819,
+        "y": 7.156862735748291,
+        "z": 82.18287743257726
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "2"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": 23.63180781014572,
+        "y": 8.114992636356114,
+        "z": 104.8302299331387
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -94.50294529089855,
+        "y": 2.9277261052728183,
+        "z": 55.43907108823718
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "4"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -63.62981749533314,
+        "y": 5.347182278590777,
+        "z": -15.152914171444689
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -65.04243121112395,
+        "y": 8.981073607313219,
+        "z": -26.94416960711542
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -63.02246466930172,
+        "y": 7.551939352752772,
+        "z": -5.8283695809858855
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -87.99855225197156,
+        "y": 4.844485255812704,
+        "z": 7.462225137682626
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -83.79591775079051,
+        "y": 2.975750477490392,
+        "z": -18.05037934757107
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -84.27045318469766,
+        "y": 7.077317734527503,
+        "z": -31.52600289362289
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "10"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -95.28412294427044,
+        "y": 1.7269141981142861,
+        "z": -102.26655303861017
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "11"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": -1.8250389058639467, "y": 25, "z": 34.56163799301471 },
+      "lod": 150,
+      "scaling": 2,
+      "id": "12"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": 5.105420988446502, "y": 25, "z": 23.36981741194367 },
+      "lod": 150,
+      "scaling": 2,
+      "id": "13"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": -26.781301620044516, "y": 25, "z": 30.76180688128303 },
+      "lod": 150,
+      "scaling": 2,
+      "id": "14"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": -67.53891403289747, "y": 25, "z": 26.940066309233835 },
+      "lod": 150,
+      "scaling": 2,
+      "id": "15"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": -32.17195285371332, "y": 25, "z": 68.73019124407087 },
+      "lod": 150,
+      "scaling": 2,
+      "id": "16"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": {
+        "x": -21.832209479198426,
+        "y": 25,
+        "z": 62.197228667321085
+      },
+      "lod": 150,
+      "scaling": 2,
+      "id": "17"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": 6.739718300049256, "y": 25, "z": 90.5988395498788 },
+      "lod": 150,
+      "scaling": 2,
+      "id": "18"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": 38.230407816353704, "y": 25, "z": 84.66539064817269 },
+      "lod": 150,
+      "scaling": 2,
+      "id": "19"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": 64.39101436708663, "y": 25, "z": -29.797057818019216 },
+      "lod": 150,
+      "scaling": 2,
+      "id": "20"
+    }
+  ]
+}
