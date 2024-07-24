@@ -1,0 +1,23 @@
+{
+  "defaultPosition": "3.83,17.49,5.34,-3.01,14.51,1.42,4.00,0,0",
+  "textures": {
+    "hm": "https://i.imgur.com/unAsCke.png",
+    "mt": "https://i.imgur.com/hKu4SdG.jpg",
+    "t1": "https://i.imgur.com/i64uMf3.jpg",
+    "t2": "https://i.imgur.com/i64uMf3.jpg",
+    "t3": "https://i.imgur.com/i64uMf3.jpg",
+    "t4": "https://i.imgur.com/i64uMf3.jpg"
+  },
+  "sky": {
+    "auto": false,
+    "sunPosition": 0.4835844062111858,
+    "color": { "r": 4, "g": 5.5, "b": 39.5 },
+    "cloudy": 0
+  },
+  "rain": false,
+  "snow": true,
+  "trees": false,
+  "birds": false,
+  "ambient": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/main/sounds/day.mp3",
+  "assets": []
+}
