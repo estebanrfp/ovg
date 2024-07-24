@@ -1,0 +1,272 @@
+{
+  "defaultPosition": "20.37,14.75,7.65,-2.25,8.09,1.24,4.00,0,0",
+  "textures": {
+    "hm": "https://i.imgur.com/a3zmYGq.png",
+    "mt": "https://i.imgur.com/zpnDD5d.jpg",
+    "t1": "https://i.imgur.com/sJhUVhL.jpg",
+    "t2": "https://i.imgur.com/i64uMf3.jpg",
+    "t3": "https://i.imgur.com/MMTzQkZ.jpg",
+    "t4": "https://i.imgur.com/SjdreD2.jpg"
+  },
+  "sky": {
+    "auto": false,
+    "sunPosition": 1.7687587163246767,
+    "color": { "r": 0, "g": 9.5, "b": 32 },
+    "cloudy": 0.1
+  },
+  "rain": false,
+  "snow": false,
+  "trees": true,
+  "birds": false,
+  "text": [
+    {
+      "id": "123412234",
+      "position": { "x": 3.60, "y": 17.49, "z": 13.40, "rotation": 0.5 },
+      "color": 3.8,
+      "title": "Introducción a WebGPU y la Incorporación de Gráficos 3D de Alto Rendimiento y Cómputo Paralelo en la Web",
+      "text": "Introducción a WebGPU y la Incorporación de Gráficos 3D de Alto Rendimiento y Cómputo Paralelo en la Web",
+      "url": "https://voicesofvr.com/1213-primer-on-webgpu-bringing-high-performance-3d-graphics-and-parallel-compute-to-the-web/"
+    }
+  ],
+  "cartel": [
+    {
+      "id": "12341234",
+      "position": { "x": 10.01, "y": 4, "z": 70.1, "rotation": 0.5 },
+      "w": 3.8,
+      "h": 2.8,
+      "url": "https://i.imgur.com/gN1dkdz.jpg",
+      "link": "https://i.imgur.com/gN1dkdz.jpg"
+    }
+  ],
+  "qr": [
+    {
+      "id": "222341",
+      "position": { "x": 36.82, "y": 8.31, "z": -2.94, "rotation": 1 },
+      "link": "https://desarrolloactivo.com"
+    }
+  ],
+  "portals": [
+    {
+      "id": "7657",
+      "src": "",
+      "name": "portal to 0,1",
+      "color": "#4caf50",
+      "position": { "x": -15.32, "y": 16.49, "z": 10.32 },
+      "dest": "37.37,17.75,11.68,-1.66,25.18,1.41,1.00,0,0"
+    },
+    {
+      "id": "103402",
+      "name": "0,0, Central land",
+      "color": "#45defc",
+      "position": { "x": 8.05, "y": 11.39, "z": -19.76 },
+      "dest": "-34.93,2.50,-43.63,0.74,22.35,1.49,1.00,0,0"
+    },
+    {
+      "id": "103340232",
+      "name": "2,0 - Snow land",
+      "color": "#e200ff",
+      "position": { "x": 12.8, "y": 4.92, "z": 101.66 },
+      "dest": "-8.12,4.65,-28.99,-0.21,3.54,1.57,1.00,2,0"
+    }
+  ],
+  "sell": [
+    {
+      "id": "7657234234",
+      "position": { "x": 75.03, "y": 3.37, "z": -67.48 },
+      "address": "0xC9f9b6d99d605880C8dD85DBCbBE94E83af738A5",
+      "price": "0.0",
+      "url": "https://raw.githubusercontent.com/estebanrfp/static-assets/master/ovgrid/ethereumbutton.png"
+    }
+  ],
+  "videodomes": [
+    {
+      "id": "761422357",
+      "position": { "x": 20.7, "y": 12.39, "z": 36.66 },
+      "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NIHmZbghlilb1qj7b/videoblocks-vr-360-clouds-timelapse-from-sunrise-to-sunset-in-virtual-reality-360-degree-video_Sdlyi4hxb__432e44e3888228000896d5c776b2182f__P640.mp4"
+    },
+    {
+      "id": "76142522227",
+      "position": { "x": 17.7, "y": 12.39, "z": 36.66 },
+      "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/YWAdzU2/360-vr-space-3016-virtual-reality-video-flying-through-star-fields-in-space-loop-designed-to-be-used-in-oculus-rift-samsung-gear-vr-and-other-virtual-reality-displays_SUhXN6LIe__695c4db5689cac6e495bdd865b806293__P640.mp4"
+    },
+    {
+      "id": "76142222522227",
+      "position": { "x": 17.7, "y": 12.39, "z": 38.66 },
+      "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/YWAdzU2/videoblocks-360-vr-video-background-3610-virtual-reality-video-abstract-dot-geometry-loop-designed-to-be-used-in-oculus-rift-samsung-gear-vr-and-other-virtual-reality-displays_Sq7biXJvM__04dd1b38e042440739104f25352c331e__P640.mp4"
+    },
+    {
+      "id": "76142213412322522227",
+      "position": { "x": 17.7, "y": 12.39, "z": 40.66 },
+      "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/yRF5c-O/videoblocks-360vr-journey-through-vortex-of-time-and-space-traveling-at-near-or-faster-than-light-speed-time-vortex-tunnel-wormhole-seamless-loop-360-degrees-vr-4k-4096_HVElo5N9e__PM.mp4"
+    }
+  ],
+  "gifs": [
+    {
+      "id": "15233445",
+      "url": "https://i.imgur.com/Ydns02a.gif",
+      "position": { "x": -8.22, "y": 6.5, "z": 75.31 }
+    },
+    {
+      "id": "152345",
+      "url": "https://i.imgur.com/MC8XuyP.gif",
+      "position": { "x": -8.22, "y": 4.5, "z": 75.31 }
+    }
+  ],
+  "videos": [
+    {
+      "id": "1005043",
+      "thumbnail": null,
+      "url": "https://cdn.lbryplayer.xyz/api/v3/streams/free/dKanban-Board---Distributed-Kanban-board-that-stores-data-in-Gun/9976b03a22673dd0d3942fa4db78655252b915cd/850aff",
+      "position": { "x": 3.2, "y": 16.49, "z": 19.19, "rotation": 0 },
+      "w": 3.8,
+      "h": 1.8
+    }
+  ],
+  "assets": [
+    {
+      "id": "334525276522345343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/others/yate.glb",
+      "position": { "x": 32.97, "y": 1.5, "z": -37.39 },
+      "lod": 50,
+      "scaling": 0.2
+    },
+    {
+      "id": "3345252376522345343",
+      "url": "https://raw.githubusercontent.com/decentraland-scenes/Genesis-Plaza-SDK7/master/models/robots/alice.glb",
+      "position": { "x": -0.89, "y": 17.49, "z": 5.88 },
+      "lod": 50,
+      "scaling": 2
+    },
+    {
+      "id": "3345252765323422345343",
+      "url": "https://raw.githubusercontent.com/BabylonJS/Assets/master/meshes/fish.glb",
+      "position": { "x": 57.14, "y": 0.2, "z": -30.98 },
+      "lod": 50,
+      "scaling": 0.2
+    },
+    {
+      "id": "334525222376522345343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/palm_tree_pack_lowpoly.glb",
+      "position": { "x": -5.42, "y": 12.49, "z": 18.12 },
+      "lod": 50,
+      "scaling": 1
+    },
+    {
+      "id": "33455276525343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/palms.glb",
+      "position": { "x": -13.16, "y": 14.5, "z": 21.67 },
+      "lod": 50,
+      "scaling": 2
+    },
+    {
+      "id": "3345527623423525343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/triangular_animated_portal.glb",
+      "position": { "x": 18.59, "y": 19.82, "z": 58.04 },
+      "lod": 50,
+      "scaling": 2
+    },
+    {
+      "id": "33455276234525343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/palms.glb",
+      "position": { "x": -9.24, "y": 2.92, "z": 83.91 },
+      "lod": 50,
+      "scaling": 2
+    },
+    {
+      "id": "334552376525343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": -2.96, "y": 8.39, "z": -22.98 },
+      "lod": 50,
+      "scaling": 2
+    },
+    {
+      "id": "3345523765252343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": -19.32, "y": 10.75, "z": -6.69 },
+      "lod": 50,
+      "scaling": 2
+    },
+    {
+      "id": "3345523765252343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": 28.33, "y": 8.39, "z": 26.97 },
+      "lod": 50,
+      "scaling": 2
+    },
+    {
+      "id": "33453325276525343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/others/small_folliage_plant.glb",
+      "position": { "x": 1.6, "y": 2.92, "z": 80.7 },
+      "lod": 50,
+      "scaling": 1
+    },
+    {
+      "id": "3345332527652522343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/stones/low_poly_rock.glb",
+      "position": { "x": 0.89, "y": 11.75, "z": -4.24 },
+      "lod": 50,
+      "scaling": 5
+    },
+    {
+      "id": "33453325227652522343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/stones/stone_01_-_low_poly.glb",
+      "position": { "x": -4.31, "y": 8.35, "z": -34.14 },
+      "lod": 50,
+      "scaling": 5
+    },
+    {
+      "id": "33453325276525343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/others/radish_leaf_01.glb",
+      "position": { "x": -1.38, "y": 4.92, "z": 89.54 },
+      "lod": 50,
+      "scaling": 1
+    },
+    {
+      "id": "33455225343",
+      "url": "https://raw.githubusercontent.com/CedricGuillemet/dump/master/windmill/scene.gltf",
+      "position": { "x": 24.03, "y": 10.75, "z": 13.89 },
+      "lod": 50,
+      "scaling": 3
+    },
+    {
+      "id": "33455522343",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
+      "position": { "x": -5.36, "y": 8, "z": 54.74 },
+      "lod": 50,
+      "scaling": 3
+    }
+  ],
+  "bots": [
+    {
+      "id": "156932",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/decentraland/avatars/Hombre_hypster.glb",
+      "position": { "x": -14.40, "y": 14.75, "z": -7.28 },
+      "context": "eres un profesor de la Universidad de San Sebastian, cuando te saluden, orienta a tus alumnos de matemáticas con frases cortas pero muy alentadoras",
+      "lod": 50,
+      "scaling": 0.05
+    },
+    {
+      "id": "1234103",
+      "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/characters/Character.glb",
+      "position": { "x":-37.28, "y": 9.35, "z": -24.97 },
+      "context": "eres un profesor de la Universidad de San Sebastian, cuando te saluden, entrga los horarios de la asignatura de matemáticas",
+      "lod": 50,
+      "scaling": 0.05
+    }
+  ],
+  "ambient": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/main/sounds/day.mp3",
+  "musics": [
+    {
+      "id": "000704",
+      "url": "https://raw.githubusercontent.com/estebanrfp/static-assets/master/ovgrid/assets/music/music.mp3",
+      "position": { "x": 33.64, "y": 6.96, "z": -22.8 },
+      "lod": 150
+    },
+    {
+      "id": "00072204",
+      "url": "https://raw.githubusercontent.com/estebanrfp/static-assets/master/ovgrid/sounds/ES_Steps_To_Mindfulness_kgtvy7.mp3",
+      "position": { "x": -84.33, "y": 6.96, "z": 41.21 },
+      "lod": 50
+    }
+  ]
+}
