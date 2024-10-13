@@ -2,11 +2,16 @@
   "defaultPosition": "20.37,14.75,7.65,-2.25,8.09,1.24,4.00,0,0",
   "textures": {
     "hm": "https://i.imgur.com/a3zmYGq.png",
-    "mt": "https://i.imgur.com/zpnDD5d.jpg",
+    "mt1": "https://i.imgur.com/zpnDD5d.jpg",
+    "mt2": "https://i.imgur.com/zpnDD5d.jpg",
     "t1": "https://i.imgur.com/sJhUVhL.jpg",
     "t2": "https://i.imgur.com/i64uMf3.jpg",
     "t3": "https://i.imgur.com/MMTzQkZ.jpg",
-    "t4": "https://i.imgur.com/oOUWSvI.jpg"
+    "t4": "https://i.imgur.com/oOUWSvI.jpg",
+    "t5": "https://i.imgur.com/sJhUVhL.jpg",
+    "t6": "https://i.imgur.com/i64uMf3.jpg",
+    "t7": "https://i.imgur.com/MMTzQkZ.jpg",
+    "t8": "https://i.imgur.com/oOUWSvI.jpg"
   },
   "sky": {
     "auto": false,
