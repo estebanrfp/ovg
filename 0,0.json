@@ -129,6 +129,13 @@
   ],
   "assets": [
     {
+      "id": "3345252765223453423",
+      "url": "https://raw.githubusercontent.com/DavidFenk/scene/main/GLman_turbosquid.glb",
+      "position": { "x": -58.97, "y": 0, "z": -78.76 },
+      "lod": 50,
+      "scaling": 50
+    },
+    {
       "id": "334525276522345343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/others/yate.glb",
       "position": { "x": 32.97, "y": 1.5, "z": -37.39 },
