@@ -129,6 +129,7 @@
       "id": "3345252765223453423",
       "url": "https://raw.githubusercontent.com/DavidFenk/scene/main/GLman_turbosquid.glb",
       "position": { "x": -58.97, "y": 0, "z": -78.76 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 50
     },
@@ -136,6 +137,7 @@
       "id": "334525276522345343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/others/yate.glb",
       "position": { "x": 32.97, "y": 1.5, "z": -37.39 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 0.2
     },
@@ -143,6 +145,7 @@
       "id": "3345252376522345343",
       "url": "https://raw.githubusercontent.com/decentraland-scenes/Genesis-Plaza-SDK7/master/models/robots/alice.glb",
       "position": { "x": -0.89, "y": 17.49, "z": 5.88 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 2
     },
@@ -150,6 +153,7 @@
       "id": "3345252765323422345343",
       "url": "https://raw.githubusercontent.com/BabylonJS/Assets/master/meshes/fish.glb",
       "position": { "x": 57.14, "y": 0, "z": -30.98 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 0.2
     },
@@ -157,6 +161,7 @@
       "id": "334525222376522345343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/palm_tree_pack_lowpoly.glb",
       "position": { "x": -5.42, "y": 12.49, "z": 18.12 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 1
     },
@@ -164,6 +169,7 @@
       "id": "33455276525343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/palms.glb",
       "position": { "x": -13.16, "y": 14.5, "z": 21.67 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 2
     },
@@ -171,6 +177,7 @@
       "id": "3345527623423525343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/triangular_animated_portal.glb",
       "position": { "x": 18.59, "y": 19.82, "z": 58.04 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 2
     },
@@ -178,6 +185,7 @@
       "id": "33455276234525343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/palms.glb",
       "position": { "x": -9.24, "y": 2.92, "z": 83.91 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 2
     },
@@ -185,6 +193,7 @@
       "id": "334552376525343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
       "position": { "x": -2.96, "y": 8.39, "z": -22.98 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 2
     },
@@ -192,6 +201,7 @@
       "id": "3345523765252343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
       "position": { "x": -19.32, "y": 10.75, "z": -6.69 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 2
     },
@@ -199,6 +209,7 @@
       "id": "3345523765252343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
       "position": { "x": 28.33, "y": 8.39, "z": 26.97 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 2
     },
@@ -206,6 +217,7 @@
       "id": "33453325276525343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/others/small_folliage_plant.glb",
       "position": { "x": 1.6, "y": 2.92, "z": 80.7 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 1
     },
@@ -213,6 +225,7 @@
       "id": "3345332527652522343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/stones/low_poly_rock.glb",
       "position": { "x": 0.89, "y": 11.75, "z": -4.24 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 5
     },
@@ -220,6 +233,7 @@
       "id": "33453325227652522343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/stones/stone_01_-_low_poly.glb",
       "position": { "x": -4.31, "y": 8.35, "z": -34.14 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 5
     },
@@ -227,6 +241,7 @@
       "id": "33453325276525343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/others/radish_leaf_01.glb",
       "position": { "x": -1.38, "y": 4.92, "z": 89.54 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 1
     },
@@ -234,6 +249,7 @@
       "id": "33455225343",
       "url": "https://raw.githubusercontent.com/CedricGuillemet/dump/master/windmill/scene.gltf",
       "position": { "x": 24.03, "y": 10.75, "z": 13.89 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 3
     },
@@ -241,6 +257,7 @@
       "id": "33455522343",
       "url": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/master/assets/trees/2_palm_low_poly.glb",
       "position": { "x": -5.36, "y": 8, "z": 54.74 },
+      "rotation": { "x": 0, "y": 0, "z": 0 },
       "lod": 50,
       "scaling": 3
     },
