@@ -21,7 +21,7 @@
     "url": "https://raw.githubusercontent.com/eldinor/ForBJS/master/ccity_building_set_1.glb",
     "position": { "x": 0, "y": 1.5, "z": 0 },
     "rotation": { "x": 0, "y": 0, "z": 0 },
-    "scaling": 500,
+    "scaling": 0.05,
     "phisics": true
   }]
 }
