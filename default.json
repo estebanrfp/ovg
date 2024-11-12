@@ -1,24 +1,24 @@
-{
-  "textures": {
-    "t1": "https://i.imgur.com/sJhUVhL.jpg",
-    "t2": "https://i.imgur.com/i64uMf3.jpg",
-    "t3": "https://i.imgur.com/MMTzQkZ.jpg",
-    "t4": "https://i.imgur.com/SjdreD2.jpg"
-  },
-  "sky": {
-    "auto": false,
-    "sunPosition": 0.05,
-    "color": {
-      "r": 5.8,
-      "g": 13.5,
-      "b": 33.1
+  {
+    "textures": {
+      "t1": "https://i.imgur.com/sJhUVhL.jpg",
+      "t2": "https://i.imgur.com/i64uMf3.jpg",
+      "t3": "https://i.imgur.com/MMTzQkZ.jpg",
+      "t4": "https://i.imgur.com/SjdreD2.jpg"
     },
-    "cloudy": 0.1
-  },
-  "rain": false,
-  "snow": false,
-  "trees": false,
-  "birds": false,
-  "ambient": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/main/sounds/day.mp3",
-  "assets": []
-}
+    "sky": {
+      "auto": false,
+      "sunPosition": 3.3072628020599035,
+      "color": {
+        "r": 5.8,
+        "g": 13.5,
+        "b": 33.1
+      },
+      "cloudy": 0.1
+    },
+    "rain": false,
+    "snow": false,
+    "trees": false,
+    "birds": false,
+    "ambient": "https://raw.githubusercontent.com/estebanrfp/ovgrid-assets/main/sounds/day.mp3",
+    "assets": []
+  }
