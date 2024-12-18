@@ -1,11 +1,9 @@
 {
   "textures": {
-    "layers": {
-      "diffuseTexture1": "textures/sand/layer.ktx2",
-      "diffuseTexture2": "textures/grass/layer.ktx2",
-      "diffuseTexture3": "textures/terrain/layer.ktx2",
-      "diffuseTexture4": "textures/snow/layer.ktx2"
-    }
+    "diffuseTexture1": "textures/sand/layer.ktx2",
+    "diffuseTexture2": "textures/grass/layer.ktx2",
+    "diffuseTexture3": "textures/terrain/layer.ktx2",
+    "diffuseTexture4": "textures/snow/layer.ktx2"
   },
   "sky": {
     "auto": false,
