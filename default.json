@@ -1,9 +1,11 @@
 {
   "textures": {
-    "t1": "https://i.imgur.com/sJhUVhL.jpg",
-    "t2": "https://i.imgur.com/i64uMf3.jpg",
-    "t3": "https://i.imgur.com/MMTzQkZ.jpg",
-    "t4": "https://i.imgur.com/SjdreD2.jpg"
+    "layers": {
+      "diffuseTexture1": "textures/sand/layer.ktx2",
+      "diffuseTexture2": "textures/grass/layer.ktx2",
+      "diffuseTexture3": "textures/terrain/layer.ktx2",
+      "diffuseTexture4": "textures/snow/layer.ktx2"
+    }
   },
   "sky": {
     "auto": false,
